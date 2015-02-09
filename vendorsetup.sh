@@ -1,1 +1,1 @@
-add_lunch_combo cm_hltetmo-eng
+add_lunch_combo infamous_hltetmo-userdebug
